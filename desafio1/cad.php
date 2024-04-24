@@ -20,6 +20,8 @@
 
             echo "O sucessor eh $sucessor e o antecessor eh $antecessor";
         ?>
+
+        <button onclick="javascript:history.go(-1)">&#x1F504;Voltar</button> 
     </main>
 </body>
 </html>
